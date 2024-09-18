@@ -1,1 +1,3 @@
-export const greeting = "hello, mate!";
+const greeting = "hello, mate!";
+
+export {greeting}
